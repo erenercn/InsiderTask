@@ -34,4 +34,5 @@ public class OpenPositionsPage {
 
     @FindBy (xpath = "//*[@class='position-location text-large']")
     public List<WebElement> locations;
+
 }
